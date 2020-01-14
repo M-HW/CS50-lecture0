@@ -1,0 +1,25 @@
+h1 {
+  color:#FF00FF;
+  text-align: right;
+}
+div {
+  background-color:#21aced;
+  width: 200px;
+  height: 180px;
+  margin: 20px;
+  padding: 0px;
+  font-family:courier, arial;
+  font-size: 20px;
+  font-weight: lighter;
+  border: 5px dotted
+}
+table{
+  width: 40%;
+  border:5px solid;
+  border-collapse: collapse;
+  margin: 20px;
+}
+td, th{
+  text-align: center;
+  border: 2px solid;
+}
